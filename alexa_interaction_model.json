@@ -1,0 +1,26 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "NextBins",
+      "samples": [
+        "Alexa ask Leeds Bins what's next",
+        "Alexa ask Leeds Bins when is my next collection",
+        "Alexa open Leeds Bins",
+        "Alexa launch Leeds Bins"
+      ],
+      "slots": []
+    }
+  ]
+}
