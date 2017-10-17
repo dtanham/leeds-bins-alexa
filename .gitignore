@@ -1,0 +1,5 @@
+*.zip
+*.pyc
+*.env
+*_env.py
+pymysql
